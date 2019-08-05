@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Muvi</string>
+    <string name="title_home">Home</string>
+    <string name="movie_title">Movie</string>
+    <string name="tv_show_title">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_10_movies">Top 10 Movies</string>
+    <string name="tvposterDummy">deskripsi</string>
+    <string name="showTitleDummy">Judul</string>
+    <string name="showDurasiDummy">durasi</string>
+    <string name="showDeskripsiDummy">deskripsi</string>
+    <string name="top_10_tv_show">Top 10 Tv Show</string>
+    <string name="bgmovie">bgmovie</string>
+    <string name="settings">Settings</string>
+    <string name="change_language">Change Language</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="title">Title</string>
+    <string name="release_date">release Date</string>
+    <string name="durasi">Durasi :</string>
+    <string name="durasicontent">durasi</string>
+    <string name="cast">Cast :</string>
+    <string name="castData">cast</string>
+    <string name="sinopsis">Sinopsis :</string>
+    <string name="sinopisData">sinopis</string>
+</resources>

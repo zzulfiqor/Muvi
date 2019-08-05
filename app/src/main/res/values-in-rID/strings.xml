@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Muvi</string>
+    <string name="title_home">Home</string>
+    <string name="movie_title">Film</string>
+    <string name="tv_show_title">Serial TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_10_movies">10 Film Terbaik</string>
+    <string name="tvposterDummy">Deskripsi</string>
+    <string name="showTitleDummy">Judul</string>
+    <string name="showDurasiDummy">durasi</string>
+    <string name="showDeskripsiDummy">deskripsi</string>
+    <string name="top_10_tv_show">10 Serial TV Terbaik</string>
+    <string name="bgmovie">bgmovie</string>
+    <string name="settings">Pengaturan</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="title">Judul</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="durasi">Durasi :</string>
+    <string name="durasicontent">durasi</string>
+    <string name="cast">Aktor :</string>
+    <string name="castData">cast</string>
+    <string name="sinopsis">Sinopsis :</string>
+    <string name="sinopisData">sinopis</string>
+</resources>
